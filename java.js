@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
     const promoItems = document.querySelectorAll('.promo-item');
     let indiceAtual = 0;
